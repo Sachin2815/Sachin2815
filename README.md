@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin2815&show_icons=true&locale=en" alt="sachin2815" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin2815&" alt="sachin2815" /></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin2815&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="sachin2815" />
+</p>
