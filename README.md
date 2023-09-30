@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Singh</h1>
-<h3 align="center">A passionate DevOps and Cloud Engineer developer</h3>
+<h3 align="center">A passionate DevOps and Cloud Engineer </h3>
 
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
