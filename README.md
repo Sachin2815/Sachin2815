@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Singh</h1>
 <h3 align="center">A passionate DevOps and Cloud Engineer developer</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw0m0XvH6hclV_CFmY23_5Fy&ust=1696192080540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDPxYWW04EDFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin2815&label=Profile%20views&color=0e75b6&style=flat" alt="sachin2815" /> </p>
 
 - 🌱 I’m currently learning **Terraform**
