@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Aws, Linux , Docker , Jenkins**
 
-- 📫 How to reach me **sachin.singh.professionl@gmail.com**
+- 📫 How to reach me **sachin.singh.professional@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
