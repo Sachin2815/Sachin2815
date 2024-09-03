@@ -75,11 +75,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Real application industry-based project on DevOps🌻](https://medium.com/@sachin.singh.professional/real-application-industry-based-project-on-devops-b3764c9688b2)
-- [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@azfaralam/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
-- [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@azfaralam/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
-- [Transforming Industries: The Power of Natural Language Processing (NLP) in the Age of AI](https://medium.com/@azfaralam/transforming-industries-the-power-of-natural-language-processing-nlp-in-the-age-of-ai-b159a0738344)
-- [OpenShift Use Cases | Real-Time Industry Based Case Studies | Why Openshift](https://medium.com/@azfaralam/openshift-use-cases-real-time-industry-based-case-studies-fff064af0e3b)
-- [Mastering Prompt Engineering: Optimizing Conversations with ChatGPT](https://medium.com/@azfaralam/unlocking-the-power-of-chat-gpt-through-effective-prompt-engineering-2d72c3655e03)
+- [The Algorithms Behind The Working Of Google Maps🌻](https://medium.com/@sachin.singh.professional/the-algorithms-behind-the-working-of-google-maps-73c379bcc9b9)
+- [Deploying WordPress Application on Ec2 Instance with AWS RDS 🌻](https://medium.com/@sachin.singh.professional/deploying-wordpress-application-on-ec2-instance-with-aws-rds-bb1466416d28)
+- [Deep Research on Artificial Intelligence and Machine Learning 🌻](https://medium.com/@sachin.singh.professional/deep-research-on-artificial-intelligence-and-machine-learning-14f27d7ca5b0)
+- [Case Study of How Netflix got benefits from Amazon Web Services🍿](https://medium.com/@sachin.singh.professional/case-study-of-how-netflix-got-benefits-from-amazon-web-services-53d3ad0256bd)
+- [Microservices Design principle and Design Patterns💐 ](https://medium.com/@sachin.singh.professional/microservices-design-principle-and-design-patterns-879ab5e8dad3)
 <!-- BLOG-POST-LIST:END -->
 
 
