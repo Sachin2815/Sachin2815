@@ -74,7 +74,7 @@
 <a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How Industries are Solving challenges using Ansible?](https://medium.com/@azfaralam/how-industries-are-solving-challenges-using-ansible-53c951ce105)
+- [Real application industry-based project on DevOps🌻](https://medium.com/@sachin.singh.professional/real-application-industry-based-project-on-devops-b3764c9688b2)
 - [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@azfaralam/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
 - [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@azfaralam/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
 - [Transforming Industries: The Power of Natural Language Processing (NLP) in the Age of AI](https://medium.com/@azfaralam/transforming-industries-the-power-of-natural-language-processing-nlp-in-the-age-of-ai-b159a0738344)
