@@ -36,12 +36,12 @@
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://mdazfar2.netlify.app">
+  <a href="https://sachin2815.netlify.app">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
   </a>
 </p>
 <p align="center">
-  <a href="https://mdazfar2.netlify.app">
+  <a href="https://sachin2815.netlify.app">
     <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
   </a>
 </p>
@@ -164,7 +164,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="sachin2815" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin2815&theme=dark&hide_border=false" alt="sachin2815" />
 </p> 
 -->
 
@@ -172,7 +172,7 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin2815&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
@@ -192,7 +192,7 @@
 
 
 
-<img src="https://img.shields.io/github/followers/mdazfar2.svg?style=social&amp;label=Follow"
+<img src="https://img.shields.io/github/followers/sachin2815.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" />
         
 <!-- ---------------------------------------STATS------------------------------------------
@@ -208,10 +208,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin2815&theme=transparent" />
   </a>
   <a href="https://github.com/sachin2815">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin2815&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/sachin2815">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdazfar2&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin2815&theme=transparent" />
   </a>
   <a href="https://github.com/sachin2815">
 
