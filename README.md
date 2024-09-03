@@ -204,16 +204,16 @@
 <details>
   
 <p align="center">
-  <a href="https://github.com/mdazfar2">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
+  <a href="https://github.com/sachin2815">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin2815&theme=transparent" />
   </a>
-  <a href="https://github.com/mdazfar2">
+  <a href="https://github.com/sachin2815">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/mdazfar2">
+  <a href="https://github.com/sachin2815">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdazfar2&theme=transparent" />
   </a>
-  <a href="https://github.com/mdazfar2">
+  <a href="https://github.com/sachin2815">
 
 </details>
 
