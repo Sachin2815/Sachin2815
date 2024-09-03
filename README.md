@@ -31,7 +31,7 @@
  
 </p>
 
-<p align="center">My name is Sachin Singh. I’m a dedicated learner who enjoys solving problems and trying new things. I work well both in teams and on my own, always ready for new challenges. With experience in automation and troubleshooting, I also have strong skills in leading teams. I’m excited to use my abilities in creative and dynamic projects..</p>
+<p align="center">My name is 𝐒𝐚𝐜𝐡𝐢𝐧 𝐒𝐢𝐧𝐠𝐡.I’m a dedicated learner who enjoys solving problems and trying new things. I work well both in teams and on my own, always ready for new challenges. With experience in automation and troubleshooting, I also have strong skills in leading teams. I’m excited to use my abilities in creative and dynamic projects..</p>
 
 ### <p align="center">My Technical Skills</p>
 
