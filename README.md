@@ -52,25 +52,21 @@
 
 <i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India.
+👋 Hello and thanks for stopping by! I’m Sachin Singh, a passionate DevOps and Cloud Engineer from India, on a mission to turn tech challenges into exciting innovations 🌟
 
-🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created HelpOps-Hub to prevent anyone from getting stuck in DevOps. When I was learning DevOps, I encountered many errors with various tools and technologies that I couldn't solve by myself. It took a lot of time to resolve these issues, so I created HelpOps-Hub to save others from wasting their time on these errors. As the founder of HelpOps-Hub, I invite everyone to join our platform, share their experiences with DevOps tools and technologies, provide solutions to errors, and learn how to resolve issues quickly.
+🎓 &nbsp; I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes, and automation.
 
-🎯 As the Co-Founder of [Emanate](https://emanate.co.in), I've driven the creation of a pioneering platform that reimagines how investors and startups collaborate. Emanate isn't just a platform; it's a dynamic community and vital funding contributions. Our innovative concept introduces the “First Social Media Platform for Investor and Startups,” Empowering investors with comprehensive insights into registered startups.
+🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over 1,000 online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
 
-🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead 25+ online learners orchestrating tasks, teaching DevOps, and enhancing skills in CI/CD, and cloud tech. Beyond leadership, I thrive as a troubleshooter, unraveling technical challenges and leaving a lasting impact on careers.
+🔥 &nbsp; I have over 16K+ followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
 
-🎓 &nbsp; I'm pursuing Bachelor of Technology with a degree in Computer Science, and also maintaining [Emanate: Sharing Startup Dreams](www.emanate.co.in).
+� &nbsp; ✍️ I write articles on  [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
 
-🔥 &nbsp; With an impressive following of 10k+ on [Linkedin](https://www.linkedin.com/in/md-azfar-alam/), I post a lot of DevOps technology content, various technology-related projects, and ideas for integrating different technologies.
+😄 &nbsp; My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
-🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
+🧟‍♂️I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
 
-🔥 &nbsp; I also write my articles on [Hashnode](https://azfaralam.hashnode.dev/) so that I don't face any problems in the future. For example, if I learn something new in DevOps technology today, I write the whole thing step-by-step in my [Hashnode blog article](https://azfaralam.hashnode.dev/) with screenshots so that I can refer to it in the future and understand it immediately. It can help others too.
 
-😄 &nbsp; My standout strength lies in my unwavering adaptability—a dynamic force that transforms challenges into opportunities. Coupled with a relentless passion for continuous learning, I thrive in pushing boundaries, embracing innovation, and consistently delivering results that exceed expectations. 
-
-🎁 Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
 
 
 ## Latest Blog Posts  
