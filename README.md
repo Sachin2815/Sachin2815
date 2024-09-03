@@ -164,7 +164,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="sachin2815" />
 </p> 
 -->
 
@@ -183,11 +183,11 @@
 <!-- ---------------------------------------STATS------------------------------------------
 --------------------------------------------------------------------------------------------- -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdazfar2&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="mdazfar2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin2815&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="saschin2815" /></p>
 
 <p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="mdazfar2" height="170" /></p>
+                src="https://github-readme-stats.vercel.app/api?username=sachin2815&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="sachin2815" height="170" /></p>
                 
 
 
