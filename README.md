@@ -111,12 +111,13 @@
 <samp>DevOps</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![openshift](https://img.shields.io/badge/openshift-%230db7ed.svg?style=for-the-badge&logo=openshift&logoColor=white) ![microservices](https://img.shields.io/badge/microservices-%230075A8.svg?style=for-the-badge&logo=microservices&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)|
 <samp>Cloud Platforms </samp>| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
 <samp>Operating System</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
-<samp>Frameworks</samp> | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)|
-<samp>IDE</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)| 
+<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
+<samp>Frameworks</samp> | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)|
+<samp>IDE</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)| 
 <samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 <samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)|
-<samp>Databases</samp> | ![mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -129,7 +130,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin2815&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="sachin2815" />
 
 </details>                     
 <br>
@@ -142,18 +143,18 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <a href="https://www.linkedin.com/in/sa-chin/"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
+  <a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://instagram.com/spysachin_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
   <br> 
-  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
-  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
-  <a href="https://twitter.com/AzfarAlam22"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <a href=""><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
+  <a href="https://app.daily.dev/sachinops"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
+  <a href="https://x.com/SachinTechie0"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
   <br>
-  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
-  <a href="mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
+  <a href=""><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
+  <a href="sachin.profess@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
   
 </div>
 
