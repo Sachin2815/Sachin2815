@@ -54,13 +54,13 @@
 
 👋 Hello and thanks for stopping by! I’m Sachin Singh, a passionate DevOps and Cloud Engineer from India, on a mission to turn tech challenges into exciting innovations 🌟
 
-🎓 &nbsp; I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes, and automation.
+🎓&nbsp; I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes, and automation.
 
-🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over 1,000 online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
+🏆As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over 1,000 online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
 
-🔥 &nbsp; I have over 16K+ followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
+🔥&nbsp; I have over 16K+ followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
 
-� &nbsp; ✍️ I write articles on  [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
+&nbsp;✍️ I write articles on  [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
 
 😄 &nbsp; My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
@@ -71,7 +71,7 @@
 
 ## Latest Blog Posts  
 
-<a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+<a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
 - [How Industries are Solving challenges using Ansible?](https://medium.com/@azfaralam/how-industries-are-solving-challenges-using-ansible-53c951ce105)
