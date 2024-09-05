@@ -64,7 +64,7 @@
 
 😄&nbsp;My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
-🧟‍♂️I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
+🧟‍♂️ I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
 
 
 
