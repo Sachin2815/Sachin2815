@@ -60,9 +60,9 @@
 
 🔥&nbsp;I have over 16K+ followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
 
-✍️ I write articles on  [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
+✍️ I write articles on [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
 
-😄&nbsp;My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
+😄 My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
 🧟‍♂️ I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
 
