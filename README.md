@@ -74,10 +74,10 @@
 <a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Real application industry-based project on DevOps🌻](https://medium.com/@sachin.singh.professional/real-application-industry-based-project-on-devops-b3764c9688b2)
-- [The Algorithms Behind The Working Of Google Maps🌻](https://medium.com/@sachin.singh.professional/the-algorithms-behind-the-working-of-google-maps-73c379bcc9b9)
+- [Real application industry-based project on DevOps♾️](https://medium.com/@sachin.singh.professional/real-application-industry-based-project-on-devops-b3764c9688b2)
+- [The Algorithms Behind The Working Of Google Maps📍](https://medium.com/@sachin.singh.professional/the-algorithms-behind-the-working-of-google-maps-73c379bcc9b9)
 - [Deploying WordPress Application on Ec2 Instance with AWS RDS 🌻](https://medium.com/@sachin.singh.professional/deploying-wordpress-application-on-ec2-instance-with-aws-rds-bb1466416d28)
-- [Deep Research on Artificial Intelligence and Machine Learning 🌻](https://medium.com/@sachin.singh.professional/deep-research-on-artificial-intelligence-and-machine-learning-14f27d7ca5b0)
+- [Deep Research on Artificial Intelligence and Machine Learning 🤖](https://medium.com/@sachin.singh.professional/deep-research-on-artificial-intelligence-and-machine-learning-14f27d7ca5b0)
 - [Case Study of How Netflix got benefits from Amazon Web Services🍿](https://medium.com/@sachin.singh.professional/case-study-of-how-netflix-got-benefits-from-amazon-web-services-53d3ad0256bd)
 - [Microservices Design principle and Design Patterns💐 ](https://medium.com/@sachin.singh.professional/microservices-design-principle-and-design-patterns-879ab5e8dad3)
 <!-- BLOG-POST-LIST:END -->
