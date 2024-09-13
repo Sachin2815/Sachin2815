@@ -142,7 +142,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sa-chin/"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
+  <a href="https://medium.com/@sachin28"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
   <a href="https://instagram.com/spysachin_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"/></a> 
   <br> 
   <a href=""><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
