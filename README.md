@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsachin2815%2Fsachin2815&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
   <br><br>
-  <a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
+  <a href="https://medium.com/@sachin28"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
 <!--   <a href="https://www.showwcase.com/sachin2815"><img src="https://github.com/sachin2815/sachin2815/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://www.linkedin.com/in/sa-chin//"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:sachin.profess0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
@@ -61,7 +61,7 @@
 
 🔥 I have over 16K+ followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
 
-✍️ I write articles on [medium](https://medium.com/@sachin.singh.professional). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
+✍️ I write articles on [medium](https://medium.com/@sachin28). about use cases in different industries and technologies. Whenever I work on a project, I document each step in detail. My goal is to provide clear references that help others easily understand and complete similar projects.
 
 😄 My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
@@ -72,7 +72,7 @@
 
 ## Latest Blog Posts  
 
-<a href="https://medium.com/@sachin.singh.professional"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+<a href="https://medium.com/@sachin28"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
 - [Real application industry-based project on DevOps ♾️](https://medium.com/@sachin.singh.professional/real-application-industry-based-project-on-devops-b3764c9688b2)
