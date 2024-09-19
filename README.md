@@ -55,7 +55,7 @@
 
 👋 Hello and thanks for stopping by! I’m Sachin Singh, a passionate DevOps and Cloud Engineer from India, on a mission to turn tech challenges into exciting innovations.🌟
 
-🎓&nbsp;I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes,and automation.
+🎓&nbsp; I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes,and automation.
 
 🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over 1,000+ online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
 
@@ -66,7 +66,6 @@
 😄 My biggest strength is my ability to adapt quickly, turning challenges into opportunities. I’m also very passionate about learning new things, which helps me push limits, embrace new ideas, and achieve results that go beyond what’s expected.
 
 🧟‍♂️ I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
-
 
 
 
