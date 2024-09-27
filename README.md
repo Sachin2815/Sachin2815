@@ -57,7 +57,7 @@
 
 🎓&nbsp; I am currently pursuing a Bachelor of Technology in Computer Science, where I serve as a college class representative. In this role, I’ve led and organized various club activities, focusing on teaching juniors essential DevOps and cloud concepts such as AWS, Linux, Docker, Kubernetes,and automation.
 
-🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over 1,000+ online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
+🏆 As a Technical Volunteer at [LinuxWorld Informatics Pvt Ltd](https://www.lwindia.com/), I lead over** 1,000+** online and offline learners in technologies like DevOps, Cloud, Artificial Intelligence, and Generative AI. My role involves solving and troubleshooting student issues, ensuring their learning journey is smooth and successful.
 
 🔥 I have over **17K+** followers on [LinkedIn](https://www.linkedin.com/in/sa-chin/) I’m dedicated to helping learners succeed. I post daily to motivate and encourage my audience, sharing valuable resources like interview questions, career roadmaps, cheat sheets, and personal growth tips. My goal is to make the learning journey smooth and rewarding for everyone.
 
