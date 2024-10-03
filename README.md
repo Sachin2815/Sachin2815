@@ -213,8 +213,6 @@
 
 </details>
 
-<br><br>
-
 
 <!-- ---------------------------------------3D Contributor------------------------------------------
 --------------------------------------------------------------------------------------------- -->
@@ -235,5 +233,11 @@
 
   
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <a href="https://buymeacoffee.com/sachin2815" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
