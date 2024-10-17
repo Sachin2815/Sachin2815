@@ -67,7 +67,47 @@
 
 🧟‍♂️ I believe in using empathy to work well with others and understand different perspectives. One challenge I face is that I focus deeply on one project at a time, which can make it hard for me to switch to other tasks until the current one is done.
 
+<br>
+<br>
 
+<details>
+  <summary>🏆 Certificates</summary>
+  <br>
+
+📄 Below is a showcase of my knowledge and skills across a wide range of DevOps, cloud, and related technologies, primarily completed through [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd).
+
+<br>
+
+| S.No. | Certificate Name | Issuing Authority | Date | Credential |
+|:-----:|:-----------------|:------------------:|:----:|:----------:|
+| 1. |  ARTH 3.0| LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1K08l2BEJ-S-Tjp6tjDwbq809f_ivKIIj/view?usp=drive_link) |
+| 2. | Summer Internship | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://drive.google.com/file/d/1aUe5Ss4zciWr0j6zVxNaEhg282E0LIoc/view?usp=sharing) |
+| 3. | JAZBAA 2.0  | LinuxWorld Informatics Pvt. Ltd. | November 2023 | [View](https://drive.google.com/file/d/1N-7ezgsLDfTTzlk56fkyQmuVz-wk-uZp/view?usp=sharing) |
+| 4. | Industry Relevant AWS Training | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1hQ4LNhQLzXRxxZ7JgDphQJGA1DeI8-Hy/view?usp=sharing) |
+| 5. | Jenkins CI/CD using Pipeline | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/1Ejuu7zk8_ArFW8lL76iAdzk7gIJvUnn1/view?usp=sharing) |
+| 6. | Specialization in Container | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1bKdEXZLy0XkmBgbaSULaRTGEKzKa15Wq/view?usp=sharing) |
+| 7. | Bash Shell Scripting | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/1lK9oBWLS7CGxXKJMZOiNMTdetj1y88y1/view?usp=sharing) |
+| 8. | MongoDB - NoSQL | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1HLE4lE1mdDYtpGGoGdr5rQuenfN99dDV/view?usp=sharing) |
+| 9. | Monitoring using Prometheus & Grafana | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1EzO6o6RLfXqa2NBxwtN2lQeMF5Dy1sIW/view?usp=sharing) |
+| 10. | Managing Infrastructure using Terraform | LinuxWorld Informatics Pvt. Ltd. | February 2023 | [View](https://drive.google.com/file/d/1-jNEpuTT_ejSiZCtuouBHEMCvRYJqpsY/view?usp=sharing) |
+| 11. | Specialization in Data Science program | LinuxWorld Informatics Pvt. Ltd. | June 2023 | [View](https://drive.google.com/file/d/16OB5BpfLHIomVgyDGVxkraTp9_VQ7YmH/view?usp=drive_link) |
+| 12. | MYSQL Database Training | LinuxWorld Informatics Pvt. Ltd. | December 2023 | [View](https://drive.google.com/file/d/1M-uPPNoCtHc-BVcSXA326cwP537jLgFw/view?usp=sharing) |
+| 13. | Mastering Git and Github Program | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/1dwfoDNn5y4DwLap0Qt2YncGad8-x-E-m/view?usp=sharing) |
+| 14. | Gitlab CI-CD Pipeline Training | LinuxWorld Informatics Pvt. Ltd. | October 2023 | [View](https://drive.google.com/file/d/16sdXKr6A1wK_RKOJy7hUsvoiuTdoRnfp/view?usp=sharing) |
+| 15. | AWS Solution Architect CSA Program | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/11gOQXUYMmelsOwlXVFGA7in2TGMaahHi/view?usp=sharing) |
+| 16. | Blockchain Masterclass | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://drive.google.com/file/d/1H6z3LYOcH5vsApTYMd-ttGy5cqdn-U_N/view?usp=sharing) |
+
+
+
+
+
+
+
+  
+</details>
+
+<br>
+<br>
 
 ## Latest Blog Posts  
 
