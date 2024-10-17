@@ -95,7 +95,18 @@
 | 13. | Mastering Git and Github Program | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/1dwfoDNn5y4DwLap0Qt2YncGad8-x-E-m/view?usp=sharing) |
 | 14. | Gitlab CI-CD Pipeline Training | LinuxWorld Informatics Pvt. Ltd. | October 2023 | [View](https://drive.google.com/file/d/16sdXKr6A1wK_RKOJy7hUsvoiuTdoRnfp/view?usp=sharing) |
 | 15. | AWS Solution Architect CSA Program | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/11gOQXUYMmelsOwlXVFGA7in2TGMaahHi/view?usp=sharing) |
-| 16. | Blockchain Masterclass | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://drive.google.com/file/d/1H6z3LYOcH5vsApTYMd-ttGy5cqdn-U_N/view?usp=sharing) |
+| 16. | Oracle Certified DevOps professional | Oracle University  | September 2023 | [View](https://drive.google.com/file/d/1CREAahcOkuvo_pkkljBit2Ueooy3UsQc/view?usp=sharing) |
+| 17. | Aws cloud and Artificial Intelligence| LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1qcsCfJtuBqRbOZdmgLZr0kWMZ-EDtZEN/view?usp=sharing) |
+| 18. |  Blockchain Masterclass | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://drive.google.com/file/d/1H6z3LYOcH5vsApTYMd-ttGy5cqdn-U_N/view?usp=sharing) |
+| 19. | Multicloud Architect Associate| Oracle University | September 2023 | [View](https://drive.google.com/file/d/1JFI6ddD-a8WvHSMoDqAQc8DX_yln0Hal/view?usp=sharing) |
+| 20. | AWS Builders series | AWS | July 2023 | [View](https://drive.google.com/file/d/1XqoTOskUw_FI-9GGb8rNIdxPbkMV3y3Z/view?usp=sharing) |
+| 21. | Oracle certified Developer Professional| Oracle University | October 2023 | [View](https://drive.google.com/file/d/1-Lwol03lzwf0OIMwZYjSvo3DyBOzZXiR/view?usp=sharing) |
+| 22. | Tree planting Certificate | Hacktoberfest | October 2023 | [View](https://drive.google.com/file/d/16JPfoAjnZQEIK-XNySgRhECTrRin93qT/view?usp=sharing) |
+| 23. | Data Science Professional | Oracle University | September 2023 | [View](https://drive.google.com/file/d/1PsQoke1ZKp4pnHvkcJg0otXGY5hcgsSs/view?usp=sharing) |
+| 24. | Cloud Developer Certified Professional | Oracle University | September 2023 | [View](https://drive.google.com/file/d/1GYK_Ul5FddKnMxfByMES9spn1ayzLnbK/view?usp=sharing) |
+| 25. | LinkedIn Marketing Solutions Fundamentals | LinkedIn | October 2023 | [View](https://drive.google.com/file/d/1JRZyTYg6-QHBU5Y1WmDVLRWhxEWc-sQu/view?usp=sharing) |
+
+
 
 
 
