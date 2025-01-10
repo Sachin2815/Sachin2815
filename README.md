@@ -74,7 +74,7 @@
   <summary>🏆 Certificates</summary>
   <br>
 
- **A journey of my skills and expertise** across various DevOps, cloud, and cutting-edge technologies, gained through my dedication and hard work at [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd) and other renowned companies [Oracle University](https://www.linkedin.com/company/oracle/posts/?feedView=all) etc. Every certificate **represents a milestone** in my path of continuous learning!  🌟
+ **A journey of my skills and expertise** across various DevOps, cloud, and cutting-edge technologies, gained through my dedication and hard work at [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd) and other renowned companies [Oracle University](https://www.linkedin.com/company/oracle/posts/?feedView=all) etc. Every certificate **represents a milestone** in my path of continuous learning! 🌟
 
 <br>
 
